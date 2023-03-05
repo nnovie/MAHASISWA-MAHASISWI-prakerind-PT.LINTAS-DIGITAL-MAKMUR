@@ -61,6 +61,7 @@
             <th>SMK PERMATA HARAPAN</th>
             <th>+62 822-8084-6227</th>
         </tr>
-      </table>
+
+</table>
 </body>
 </html>
