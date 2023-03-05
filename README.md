@@ -1,67 +1,32 @@
-# MAHASISWA-MAHASISWI-prakerind-PT.LINTAS-DIGITAL-MAKMUR
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Document</title>
+
+<title>Tugas</title>
 </head>
 <body>
-      <table-border="1">
-        <tr>
-            <th>1</th>
-            <th>Arini Suraymah</th>
-            <th>Perempuan</th>
-            <th>SMK IBNU SINA KOTA BATAM</th>
-            <th>+62 895-6229-66791</th>
-        </tr>
-        <tr>
-            <th>2</th>
-            <th>Salawatul Raudha</th>
-            <th>Perempuan</th>
-            <th>SMK IBNU SINA KOTA BATAM</th>
-            <th>+62 822-7934-9423</th>
-        </tr>
-        <tr>
-            <th>3</th>
-            <th>Riska Siva Nabila</th>
-            <th>Perempuan</th>
-            <th>SMK IBNU SINA KOTA BATAM</th>
-            <th>+62 858-3023-7993<?th>
-        </tr>
-        <tr>
-            <th>4</th>
-            <th>Novi Trie Lestari</th>
-            <th>Perempuan</th>
-            <th>SMK IBNU SINA KOTA BATAM</th>
-        </tr>
-        <tr>
-            <th>5</th>
-            <th>Rizkan Isya Pratama</th>
-            <th>Laki-Laki</th>
-            <th>SMK PERMATA HARAPAN</th>
-            <th>+62 857-3127-9039</th>
-        </tr>
-        <tr>
-            <th>6</th>
-            <th>Kevin Fernando</th>
-            <th>Laki-Laki</th>
-            <th>SMKPERMATA HARAPAN</th>
-            <th>+62 896-9028-1500</th>
-        </tr>
-        <tr>
-            <th>7</th>
-            <th>Darrel</th>
-            <th>Laki-Laki</th>
-            <th>SMK PERMATA HARAPAN</th>
-            <th>+62 822-8661-5803</th>
-        </tr>
-        <tr>
-            <th>8</th>
-            <th>Jofinson</th>
-            <th>Laki-Laki</th>
-            <th>SMK PERMATA HARAPAN</th>
-            <th>+62 822-8084-6227</th>
-        </tr>
+<table border="1">
+<tr>
+    <th>Hari Rabu</th>
+    <th>Rp.19.500,00</th>
+    <th>tanggal 01-03-2023</th>
+</tr>
+<tr>
+    <th>Hari Kamis</th>
+    <th>Rp.47.200,00</th>
+    <th>tanggal 02-03-2023</th>
+</tr>
+<tr>
+    <th>Hari Jum'at</th>
+    <th>Rp.5.400,00</th>
+    <th>tanggal 03-03-2023</th>
+</tr>
+<tr>
+    <th>Hari Minggu</th>
+    <th>Rp.500,00</th>
+    <th>tanggal 05-03-2023
+</tr>
+<tr>
 
-</table>
-</body>
-</html>
+
+
