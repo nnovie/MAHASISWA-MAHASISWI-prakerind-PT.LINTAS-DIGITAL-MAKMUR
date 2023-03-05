@@ -11,60 +11,59 @@
  
       <table>
         <tr>
-            <td>1</td>
-            <td>Arini Suraymah</td>
-            <td>Perempuan</td>
-            <td>SMK IBNU SINA KOTA BATAM</td>
-            <td>+62 895-6229-66791</td>
+            <th>1</th>
+            <th>Arini Suraymah</th>
+            <th>Perempuan</th>
+            <th>SMK IBNU SINA KOTA BATAM</th>
+            <th>+62 895-6229-66791</th>
         </tr>
         <tr>
-            <td>2</td>
-            <td>Salawatul Raudha</td>
-            <td>Perempuan</td>
-            <td>SMK IBNU SINA KOTA BATAM</td>
-            <td>+62 822-7934-9423</td>
+            <th>2</th>
+            <th>Salawatul Raudha</th>
+            <th>Perempuan</th>
+            <th>SMK IBNU SINA KOTA BATAM</th>
+            <th>+62 822-7934-9423</th>
         </tr>
         <tr>
-            <td>3</td>
-            <td>Riska Siva Nabila</td>
-            <td>Perempuan</td>
-            <td>SMK IBNU SINA KOTA BATAM</td>
-            <td>+62 858-3023-7993<?td>
+            <th>3</th>
+            <th>Riska Siva Nabila</th>
+            <th>Perempuan</th>
+            <th>SMK IBNU SINA KOTA BATAM</th>
+            <th>+62 858-3023-7993<?th>
         </tr>
         <tr>
-            <td>4</td>
-            <td>Novi Trie Lestari</td>
-            <td>Perempuan</td>
-            <td>SMK IBNU SINA KOTA BATAM</td>
+            <th>4</th>
+            <th>Novi Trie Lestari</th>
+            <th>Perempuan</th>
+            <th>SMK IBNU SINA KOTA BATAM</th>
         </tr>
         <tr>
-            <td>5</td>
-            <td>Rizkan Isya Pratama</td>
-            <td>Laki-Laki</td>
-            <td>SMK PERMATA HARAPAN</td>
-            <td>+62 857-3127-9039</td>
+            <th>5</th>
+            <th>Rizkan Isya Pratama</th>
+            <th>Laki-Laki</th>
+            <th>SMK PERMATA HARAPAN</th>
+            <th>+62 857-3127-9039</th>
         </tr>
         <tr>
-            <td>6</td>
-            <td>Kevin Fernando</td>
-            <td>Laki-Laki</td>
-            <td>SMKPERMATA HARAPAN<?td>
-            <td>+62 896-9028-1500</td>
+            <th>6</th>
+            <th>Kevin Fernando</th>
+            <th>Laki-Laki</th>
+            <th>SMKPERMATA HARAPAN</th>
+            <th>+62 896-9028-1500</th>
         </tr>
         <tr>
-            <td>7</td>
-            <td>Darrel</td>
-            <td>Laki-Laki</td>
-            <td>SMK PERMATA HARAPAN<?td>
-            <td>+62 822-8661-5803</td>
+            <th>7</th>
+            <th>Darrel</th>
+            <th>Laki-Laki</th>
+            <th>SMK PERMATA HARAPAN</th>
+            <th>+62 822-8661-5803</th>
         </tr>
         <tr>
-            <td>8</td>
-            <td>Jofinson</td>
-            <td>Laki-Laki</td>
-            <td>SMK PERMATA HARAPAN<?td>
-            <td>+62 822-8084-6227</td>
-
+            <th>8</th>
+            <th>Jofinson</th>
+            <th>Laki-Laki</th>
+            <th>SMK PERMATA HARAPAN</th>
+            <th>+62 822-8084-6227</th>
         </tr>
       </table>
 </body>
