@@ -6,6 +6,13 @@
 </head>
 <body>
 <table border="1">
+        <tr style="background-color: limegreen;"
+<tr>
+    <th>No</th>
+    <th>Nama Siswa-Siswi</th>
+    <th>Jenis Kelamin</th>
+    <th>Nomor Telepon</th>
+    <th>Nama Asal Sekolahan</th>
 <tr>
     <th>1</th>
     <th>Arini Suraymah</th>
